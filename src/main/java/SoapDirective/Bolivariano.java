@@ -6,7 +6,7 @@ import javax.jws.WebMethod;
 import javax.jws.WebService;
 
 @WebService(targetNamespace = "http://com.javeriana.aes.pica/services/orders")
-public class AAFlightsService {
+public class Bolivariano {
 
 	private static int order = 0;
 
